@@ -1,3 +1,7 @@
+# Dataset hiding in the .gitignore here is loaded from https://www.kaggle.com/datasets/imsparsh/gesture-recognition
+# I don't love the way that they have the folder structure set up when compared to how easy it could be handled
+# with Tensorflow if it was set up a *little* bit differently. So that's where this comes in!
+
 import os
 import shutil
 import re
